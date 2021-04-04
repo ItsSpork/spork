@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Various Javascript Frameworks**
 
-- 📄 I am looking to learn [I am still in the early stages of my development learning process and am always willing to learn!](I am still in the early stages of my development learning process and am always willing to learn!)
+- 📄 I am looking to learn I am still in the early stages of my development learning process and always looking to learn!
 
 - ⚡ Fun fact **I've almost gotten stranded in the middle of the desert on multiple occasions**
 
