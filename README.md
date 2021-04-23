@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsspork&label=Profile%20views&color=0e75b6&style=flat" alt="itsspork" /> </p>
 
-- 🔭 I’m currently working on [Vibing Bot](https://github.com/tarna/vibing-bot)
+- 🔭 I’m currently working on [ItsSpork Website](https://github.com/ItsSpork/itsspork.github.io)
 
 - 🌱 I’m currently learning **Various Javascript Frameworks**
 
