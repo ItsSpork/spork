@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on nothing! :(
 
-- 🌱 I’m currently learning **Various Javascript Frameworks**
+- 🌱 I’m currently learning **Various Javascript Frameworks** and honing **Web Development Skills**
 
-- 📄 I am looking to learn I am still in the early stages of my development learning process and always looking to learn!
+- 📄 I am still in the early stages of my development learning process and always looking to learn!
 
 - ⚡ Fun fact **I've almost gotten stranded in the middle of the desert on multiple occasions**
 
