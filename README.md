@@ -1,15 +1,11 @@
-<h1 align="center">Hi 👋, I'm Spork</h1>
-<h3 align="center">An up and coming US based developer, new to GitHub</h3>
+<h1 align="center">Hi 👋, I'm Max!</h1>
+<h3 align="center">Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsspork&label=Profile%20views&color=0e75b6&style=flat" alt="itsspork" /> </p>
 
 - 🔭 I’m currently working on nothing! :(
 
-- 🌱 I’m currently learning **Various Javascript Frameworks** and honing **Web Development Skills**
-
-- 📄 I am still in the early stages of my development learning process and always looking to learn!
-
-- ⚡ Fun fact **I've almost gotten stranded in the middle of the desert on multiple occasions**
+- 🌱 I’m currently learning **Web Development Technology**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsspork&show_icons=true&locale=en" alt="itsspork" /></p>
 
